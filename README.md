@@ -44,5 +44,16 @@ $ pnpm run start:dev
 # production mode
 $ pnpm run start:prod
 ```
-# estructura de archivo .env:
+## estructura de archivo .env:
+
+```
+$  APP_PORT=
+$  ORM_DATABASE_PORT=
+$  DB_USERNAME=
+$  DB_PASSWORD=
+$  SECRET_KEY=
+
+```
+
+
 
